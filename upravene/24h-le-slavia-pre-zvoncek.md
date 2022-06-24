@@ -1,0 +1,164 @@
+---
+title: "24h Le Slávia pre Zvonček"
+authorId: "3"
+date: "2017-10-23"
+category:  { name: "preteky", slug: "preteky", color: "#F088E4"}
+
+image: "/blog/test.jpg"
+
+tags:
+
+- "novinka"
+
+---
+
+## Ako to celé začalo ?
+
+Februárový večer, pred nami kofola, alebo pivo. V pizzérii hodnotíme uplynulý rok. Čo nám vyšlo, čo by sme zlepšili, čo
+naplánujeme na tento rok. V tom Mišo zahlási, zorganizujme dvadsaťštyrihodinovku. Všetci spozornejú, chytáme sa
+okamžite. Padajú návrhy ako by to mohlo byť, čo by tam mohlo byť. <!--more-->Mala to byť taká rodinná akcia, kde budeme
+ako keby bilancovať sezónu, pozveme si rodiny, pogrilujeme, podebatujeme a volačo pobeháme. Zo schôdze sme sa rozišli
+nadšení, že budeme mať parádnu akciu. Po pár dňoch prebieha medzi nami konverzácia, že ono by to nemusela byť len tak
+akcia, ale že by sme to mohli spojiť s nejakou charitou. Samozrejme všetci súhlasia, otázka bola pre koho ? Bratislava
+má Plamienok, čo máme my v Trnave ? Podporíme nejaké decká, nejakých mladých športovcov, prípadne paraolympionikov ? Až
+do tohto momentu tvorilo OZ sedem statočných, bol to pánsky klub, žiadne baby. Tu sme tak tušili, že potrebujeme
+niekoho, kto bude komunikovať aj s médiami a že potrebujeme nejaké posily. A zrazu nás bolo desať, keď medzi nás
+pribudli tri kočky. Časť z nás mala ďalšie stretnutie, kde sa pustili do hľadania pre koho. A našli, OZ Zvonček, pri
+Spojenej škole na Čajkovského ulici v Trnave, ktoré sa venuje viacnásobne postihnutým deťom zo znevýhodneného
+prostredia.
+
+<v-imagefullwidth :image="['/blog/test.jpg', '/blog/test.jpg']">
+    <template #caption>Hello</template>
+    <template #caption-second>Hello</template>
+</v-imagefullwidth>
+
+Pre koho, už vieme, ako máme len v predstavách. Máme luxusné štyri mesiace, to dáme. Lenže dni ubiehali a my sme mali
+len plno nápadov. V apríli samé preteky, na organizáciu neostával popri práci čas. S tým počkáme na tamto, s hentým zase
+na hento. Idea bolo, že keď ide o charitu oslovím aj ostatné športové kluby v meste, či by neposkladali štafetu. Tu
+musím vyzdvihnúť Different Athletics Trnava, kde som komunikoval s Inkou a tí neváhali ani sekundu. Jasné idú do toho,
+ale bežecky tomu moc nedajú, lebo oni beh radi nemajú. Samozrejme, že kalili vodu, ale o tom neskôr. Priznám sa, že
+ostatné trnavské kluby, ktoré sme oslovili ma trošku sklamali, lebo teda aspoň mohli odpísať, že bohužiaľ máme vtedy
+niečo iné, nemôžeme a tak. Von šla prvá tlačová správa do médií, múdro v nej náš predseda hovoril. Do kelu, už je to
+vonku, už nemôžeme cúvnuť. Chalani a baby začnime vybavovať. Lukáša spamujeme nápadmi, aké obrázky, plagáty, logá
+chceme. Chudák aj bez toho má toho dosť, ale ani raz nepovedal nie. Popravde som čakal, kedy si nás vymaže z priateľov,
+len nech mu už nepríde ďalšia robota od nás. Michal s Líviou absolvujú audienciu v Zvončeku, kde riaditeľke predostrú
+náš návrh, ktorý neskôr odobrí. Chalani vyplňujú excely čo všetko treba vybaviť, spisujú propozície, stále padajú návrhy
+čo by sme ešte mohli. Chceme mať časomieru, lebo primátor chce vidieť onlajn, koľkokrát sa už na reťazovke povozil a tak
+sa Lukáš púšťa do nekonečnej konverzácie s pánkom, ktorý ju „vie“ obsluhovať. Michal dolaďuje veci so Sláviou, ktorá nám
+vyšla v ústrety a poskytla nám zázemie na svojom štadióne. Paráda, budú aj sprchy. Nesmelo púšťame registráciu, či tam
+nebudeme krúžiť sami. Nebudeme, prihlasujú sa štafety a prekvapujúco aj ultráci, ktorí chcú otestovať silu svojej vôle a
+krúžiť chcú sami, lebo oni sa o kolečká deliť nebudú. Po tlačovej správe dostávame správu od primátora, aby sme zmenili
+názov, lebo on sa s tým nevie stotožniť a že parádnu akciu, sme zazdili názvom. Nie necúvneme, aj keď je primátor. Ako
+blesk z neba prichádza kontra v podobe stávky. Ak dá počas akcie 100km, zmeníme názov. To nedá zhodneme sa. Dá sa to
+síce kráčaním, ale to nevydrží. Mýlili sme sa. Ale o tom tiež neskôr. Peťo nám inak vyšiel vo všetkom v ústrety, keď sme
+nevedeli čo, usmernil nás kam. Mesto Trnava tiež nekládlo žiadne prekážky, takže akcia bude. Ani nevieme ako a bol tu
+jún a medzi nami čoraz častejšie padal výraz, že akcia bude na pankáča, ale veď je to nultý ročník, tak prípadné chyby
+nám odpustia. Už len Stefanik Trail a máme pred sebou 24h Le Slávia. Ten sme absolvovali štyri úspešne a mali tak trocha
+obavy, ako obstojíme v štafete, lebo chalani strašili, že minulý rok sa nevedeli tri týždne rozbehnúť. A to ostatné tímy
+skladali na nás taktiku, vyplňovali tabuľky kto pôjde kedy akým tempom. Dať dole bernoháčsky dreamteam bola výzva. Na
+piatok takmer do jedného berieme dovolenku a začíname vybavovať a znášať veci na štadión.
+
+Dve hodinky pred štartom sme už na kompletku na štadióne. Teda okrem Lívie, ktorá už mala dávno predtým naplánovanú
+dovolenku a Lucky, ktorá nám držala palčuchy spoza mláky. Keby mohli, sú tam s nami. Prichádzajú prví pretekári, tiež sa
+nevedia dočkať. Ivan Šedík okrem seba nesie obrovskú krabicu. Otvárame a v nej čokoládová torta. Ďakujeme pani manželke,
+výborná bola. Necelú hodinku pred štartom to už na Slávii výslovne žije. Prichádzajú aj tí, pre ktorých to robíme. Pani
+riaditeľka OZ Zvonček, ale aj rodičia s deťmi. Mali sme troška obavy, či ich to osloví a či sa vôbec do akcie zapoja.
+Zapojili a vo veľkom počte, prekvapili nás a posielame im veľký palec hore. Štart sa blíži, chalani kontrolujú štartové
+čísla s tým, čo je nahodené v systéme. Lukáš spozornie, je to zle. Spozornieme aj my. Telefonát pánovi, čo to
+nastavoval, sú zle priradené čísla, jasne zmení to, nie je problém. Aj zmenil. Problém bol. Opäť to nesedelo. Strapáč
+strávil na telefóne cez hodinu, toľko určite ani s Luckou nevolá, a snažia sa to dať nejako dokopy. Andrej na poslednú
+chvíľu mení niektorým číslam, dostávam príkaz ísť pre istotu robiť čiarky. Štart posúvame o štvrťhodinu. Matúš má za
+úlohu to nejako oznámiť. Vybrali sme dobre, on sa počúva rád a kto nemal chuť ho počúvať, obdivoval jeho lýtka. Je tu
+štvrť na sedem ideme do toho aj za cenu, že časomiera nebude funkčná. A4iek máme dosť, budeme robiť čárečky. Adrenalín
+visí vo vzduchu, štartujeme. Ovácie od zvončekárov a aj od ostatných pretekárov, ktorí ešte majú voľno. Pobežia neskôr.
+Tímy aj jednotlivci sa rozbehli, každý podľa svojej taktiky. Niektorých usmerňujeme, že trať je dobre vyznačená, ale zo
+zákruty majú ísť stále doľava. Pre istotu.
+
+Asfaltári začali vo veľkom štýle a po hodine už majú náskok troch kolečiek. Narýchlo podpisujeme prestupové lístky a do
+tímu pridávame mladú krv v podobe Mareka. Asfaltári „protestujú“ ale pravidlá určujeme predsa my. Na dráhe sa objavujú
+aj samotní zvončekári, beh ich tak chytil, že miestami majú na dráhe naraz tri čísla. Nikomu to ale nevadí, oni majú v
+očiach nefalšovanú radosť a z každého kolečka sa úprimne tešia. Sólisti zo začiatku držia pri sebe, ťahajú so sebou aj
+primátora, iba neskorší víťaz Dušan si ide svoje preteky. Zdá sa nám, že ide rýchlo, ale on vie čo robí, nie sú to jeho
+prvé vytrvalostné preteky. Tomáš si chcel opáliť nárty a tak ukrajuje kilometre v sandálkoch. Mira a Ivana neopúšťa
+dobrá nálada, Ivanovi sme vybavili korčuliarky čo ho potešilo a dokázal pri nich pridať aj na tempo stometrového
+šprintu. Počasie je výborne, aj keď sem tam sa zatiahne a spŕchne. Prestane vždy keď poschovávame veci. Slnko zapadá za
+Karpaty, výhľad na západ je na Slávii nádherný. Fotí sa zo všetkých strán. Lukáš poležiačky, určite chce mať najlepšiu
+fotku. Už sa mu vrátil úsmev na tvár, vyzerá že časomiera funguje a tak sme prestali aj s čiarkami. Kolečká nabehávajú
+jedna radosť, tímy striedajú bežcov, všetko funguje ako má, máme aj priamy prenos. Dočasne. Údaje na displeji sa
+zastavujú, vinu ihneď zvaľujeme na Miša, že prešiel po kábli autom a pokazil ho. Matúš s Lukášom skúšajú všetko možné aj
+nemožné a nejde to. Idú priamo ku krabici s menším káblom, nejde to ani tak. Miša odviňujeme, v kábli to nebude. Na
+pomoc prichádza aj Peco na najnovšej oprevodovanej žiletke, ktorú by mu závidel aj Sagan. Vraví, že oni dávajú výsledky
+až po preteku, zmierujeme sa s tým, že to tak bude aj u nás. Matúš s Lukášom nie, dokážu dať aktuálne výsledky cez USB
+kľúč do noťasa a nakoniec sa pripájajú na zázračnú krabičku priamo. Stačilo im dvanásť hodín a systém ovládajú lepšie
+ako pán, ktorý ich mal školiť. Možno zaškolia oni jeho.
+
+Nebehajú len jednotlivci a štafety, ale behá sa aj na voľný kolík. Záujem je veľký a tak oznamujeme, že môžu behať aj
+bez neho, veď ide o príspevok pre decká a na to kolík nepotrebujú. Peniažky do kasičky štrngajú a kilometre pre Zvonček
+pribúdajú. Na noc dorážajú aj ultráci, niektorí z nich krúžia do rána. Kto má behať behá, kto môže oddychovať oddychuje.
+Zuzka z dievčenského tímu krúži tri hodiny, kým jej na tachometri nesvieti tridsať kilometrov. Maratónsky tréning berie
+poctivo. Kapitánka Dominika vyskladala skvelý tím, babám sa podarilo prestriedať v rámci možnosti, prišli ako mohli.
+Jedna z nich bežala dvakrát s kočiarom. Kapitánka im šla príkladom, sama natočila takmer štyridsať kilometrov. Niektorí
+letia domov zdriemnuť aspoň na pár hodín, iní sa ukladajú priamo na štadióne. Či už na stole, v tulivakoch, na
+karimatke, alebo v karaváne. Jeho teplo a pohodlie volí aj primátor, ktorý si po 50km ide ľahnúť. Krútime hlavou, že to
+už je koniec. Teraz mu stvrdnú nohy a už sa nerozbehne. Predseda ukazuje na oblohu, že začína svitať. Paráda, lebo v
+noci bolo celkom čerstvo a už sme aj unavení. Pri východe slnka ukrajujeme ďalšie kilometre. Je to paráda, len keby sa
+nám chcelo. Nohy by aj šli, ale hlava protestuje. Aj tá ochota ísť sa striedať hapruje. Čóóó, veď som fčul behal, to mám
+ísť zase ? Píšte Mišovi a Matúšovi, nech dorazia, že idú behať. Chcel som si odbehnúť naraz dve hodiny nech to mám za
+sebou, ale nejde to. Po hodine kričím na Ľuboša, aby zobudil Lukáša že ide bežať. Ten sa vyskladal z auta, ako z
+tetrisu, že ešte nemôže a tak sa ponúkne Ľubo, že pôjde on a vymenia sa. Vyvaľujem sa do tulivaku veďla predsedu a
+nasávam ranné lúče slnka. Keď sa nám konečne podarí zdriemnuť, strhnem sa na trubača Matúša, ktorý nám nôti dobré ráno
+svetlo mojich očí. No nezabi ho. Posielame ho kade ľahšie a otáčame na druhý bok. Ale len nakrátko, z tulivaku nás
+vyťahuje známa aróma. Je to kakauko ? Áno je, Lukáš už sŕka z pohára. Odkiaľ to máš ? Katka prišla. Katka naše slniečko
+prišla s vianočkou a kakaukom. Večer sme mali od nej aj cheescake, ktorý musíme tiež pochváliť. Najviac sa naňho tešil
+Radko, ktorý tiež natočil po dráhe nejaké tie kilometríky. Slávia sa prebúdza do slnečného dňa a začína to tam opäť žiť.
+Sme komplet, komplet aj tím Different Athletics, ktorí fungovali ako celok počas celého podujatia. Prichádzajú opäť aj
+zvončekári. A pripravení bežať. Takže tu neboli v piatok len kvôli tomu, že sa to od nich očakáva. Oni sa chcú na
+kilometroch sami podieľať. Boli to pre nás silné momenty, keď sme videli rodičov tlačiť pred sebou vozík, alebo
+podopierať medzi sebou chlapca, ktorý sám na nohách nevládal. Ale to kolečko dať jednoducho chcel a aj dal. Zapojili sa
+od nich všetci. A keď nebežali, tak povzbudzovali ostatných, čo akurát bežali a nie len svojich. Potlesk si v sobotu
+jednoducho zaslúžili všetci. Na tráve na druhej strane zakladáme provizórny detský kútik, kde dávame bernoháčske
+omaľovánky. Kto by chcel, nájde ich na stránke, môže vykresliť a poslať nám ako to dopadlo. Prichádzajú chalani a baby z
+Kubíka, zakladajú svoj hlavný stan a začínajú pripravovať občerstvenie. Niečo pod zub a na pitie drinky zo sirupov
+Herbert. Za dobrovoľný príspevok, zisk venujú tiež Zvončeku. Ďakujeme. A neostali len pritom, sami sa prebehli po ovále.
+Na trati je opäť aj primátor. Na druhýkrát vstávanie zvládol a ukrajuje ďalšie kilometre. Prichádzajú aj posily z
+Bratislavy, dve rodiny, ktoré takéto akcie nenechávajú chladnými. Malý Krupička dáva desať kilometrov a ani sa
+nezadýchal. Brzdí ho len tato, nech nie je hanba, že mu nevládze.
+
+Teplota na slnku sa blíži k tridsiatke, na asfalte začína byť horúca. Chalani s kockami dávajú dole tričká, baby majú
+smolu a my tučnejší už máme našťastie odbehané. Začína sprievodný program, yoga s Mel a my narýchlo vyberáme
+dobrovoľníkov, ktorí sa zúčastnia. Hlási sa Lukáš, ktorý chce ukázať ako sa s prstom v nose dotkne kolien. Po skončení
+si chalani pochvaľujú, že bolo to dobre a na yoge určite neboli poslednýkrát. O štvrtej hodine je na programe Insanity a
+Crossfit v zastrešení Different Athletics, začiatok ale posúvame, lebo sa chystá historická chvíľa. Primátor nastupuje
+do posledného kolečka a tak všetko čo vládze je na nohách a čaká na cieľovej čiare. Peťo si posledné kolečko
+vychutnáva (podozrievam ho, že robil selfie v každej zákrute) ale už sa vynára z poslednej zákruty a už to má len sto
+metrov. Peter za búrlivého potlesku prichádza do cieľa, má to za sebou sto kilometrov a my prichádzame o názov 24h Le
+Slávia. Stávka je stávka. Chvíľu to vyzerá, že primátor bude pokračovať, ale rýchlo si to rozmyslí a ide si oddýchnuť.
+Bolo počuť buchot, to Ivanovi Šedíkovi padá kameň zo srdca, že starosta nepokračuje, inak by musel vybehnúť aj on. A to
+sa mu určite nechce, lebo už dlho je v našej chillout zóne. Bežať sa nechce už ani nám a tak do tímu verbujeme každého
+kto má chuť behať. Odniesol si to Lacko, ktorý prišiel obsypaný farbou z Bratislavy, lebo farbám vraj neutečieš a
+pomohol aj Mišov brat Ondrej s kamarátom. No ale späť k cvičeniu. Železo, rebríky, trx, prekážky nachystané a tak obúvam
+tenisky, sľúbili sme, že cvičiť ideme. DA sa tiež na beh nevyhovárali. Zúfalým pohľadom hľadám medzi bernoháčmi, kto do
+toho pôjde so mnou, nech nemám hanbu jediný. Obetoval sa Lukáš, Šinťo a Ľuboš. Mišo si odskočil z behu, spravil tri
+zhyby, ubezpečil sa, že bol vidieť jeho vytesaný chrbát a utekal ďalej. Začíname s Insanity, to ako tak zvládame, hádam
+sme klubovým farbám nespravili hanbu. Pre istotu, posielame Lukáša vymeniť prekážku, lebo umelec zobral najvyššiu, ale
+keď videl, ako sa bude cez ňu skákať uznal, že je vhodný čas na výmenu. Kým Insanity sme ako tak dali, crossfit už bol
+iný level. Chlapci idú do kolien, keď sa moje kliky premenili na brejkdensovú vlnku a tak si so všetkým šarmom u vedúcej
+Inky pýtame povolenie na opustenie mučebného priestoru. Predseda nie, on zvláda, on si chce ísť hádzať na kôš so
+šesťkilovým medicinbalom.
+
+Podujatie sa blíži k svojmu záveru a my začíname pomaly baliť. Je štvrť na sedem a Andrejka z tímu Faurecia mohutným
+finišom uzatvára 24h Le Slávia. Prvé a zároveň posledné. Nebojte sa, dvadsaťštyrihodinový kolotoč na Slávii ešte bude,
+ale primátor si vybojoval zmenu názvu. Oceníme najlepší tím, Asfaltárom taktika vyšla a dokonale nás unavili. Kapitán
+Martin sa s chalanmi dohodol, že cena pre najrýchlejší tím neostane u nich, ale boli by radi, ak by si trofej vystavili
+priamo v Zvončeku. Toto si zaslúži potlesk veľké gesto. Different Athletics avizovali ako nemajú radi beh a nakoniec
+bojovali o druhé miesto, pričom skončili na pódiovom treťom. Sólisti dostávajú medaile za svoje výkony. Usmievajú sa, aj
+keď ledva stoja na nohách. Dušan natočil neuveriteľných 286 okruhov, čo je viac ako 180 kilometrov. Riaditeľka OZ
+Zvonček nám poďakuje za to, že sme sa na to dali. Už čoskoro oznámime celkovú sumu, ktorá sa vyzbierala. Nevieme či
+málo, alebo veľa, ale snáď aspoň trochu deťom pomôžeme. Pri nich sme si uvedomili, že niektoré naše problémy sú
+maličkosť oproti tomu, čím si musia prejsť oni. Na začiatku som písal, že sme chceli, aby to bola taká rodinná akcia. A
+ona ňou bola. Akurát sa po víkende tá naša rodina rozrástla. Už sa nedelíme na bežcov a crossfiťákov, lebo oni už sú
+tiež naši. Už sa tešíme, ako im prídeme do ich gymu ukázať ako sa cvičí s tými činkami s rúčkami. Dúfame, že nás Ina,
+alebo Rado nenatočia. Ďakujeme každému, kto sa počas víkendu ukázal a nejakou mierou prispel k úspešnému podujatiu.
+Menovať nebudem, lebo určite by som na niekoho zabudol. Vieme, že tam boli aj chyby, ale vy ste nám ich prepáčili a my
+sa budeme snažiť ich do ďalšieho ročníka vychytať. Lebo ten určite bude, takže dovidenia priatelia, vidíme sa o rok a
+žeby v dvojnásobnom počte ?
