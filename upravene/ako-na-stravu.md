@@ -1,7 +1,7 @@
 ---
 title: "ako na stravu"
 date: "2017-01-31"
-categories: { name: "", slug: "", color: "#F088E4"}
+categories: { name: "blog", slug: "", color: "#F088E4"}
 
 authorId: "1"
 
