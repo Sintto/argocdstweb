@@ -28,7 +28,9 @@ Kde bolelo, tam bolelo, bol deň ako každý tretí. Či druhý. Alebo ten trin�
 
 ![](images/naboso-300x221.jpg)
 
-**Martin Urbaník, Vladimír Ravinger a Radovan Harach** sú traja chlapíci s dlhou cestou a spoločným cieľom. **Slovak ultra trail: Dlhá cesta za spoločným cieľom** je tretia a zároveň posledná prezentácia. Chalani nám predstavujú občianske združenie Slovak ultra trail a aktivity spojené s týmto združením. Ako inak, sú o organizovaní ultratrailových a diaľkoplazeckých akcií a trocha zabŕdajú aj do rozdielu medzi komerčnými behmi a ultra-podujatiami. Páči sa mi koncept dobrovoľníctva, ktorým idú, lebo keby mali zaplatiť všetkých ľudí spojených do takéhoto veľkého, dlhého a časovo náročného podujatia, tak suma za štartovné by zabila celú akciu a dostupnosť týchto podujatí by ostala len pár vyvoleným.
+_aktualizovane_
+
+**Vladimír Ravinger a Radovan Harach** sú traja chlapíci s dlhou cestou a spoločným cieľom. **Slovak ultra trail: Dlhá cesta za spoločným cieľom** je tretia a zároveň posledná prezentácia. Chalani nám predstavujú občianske združenie Slovak ultra trail a aktivity spojené s týmto združením. Ako inak, sú o organizovaní ultratrailových a diaľkoplazeckých akcií a trocha zabŕdajú aj do rozdielu medzi komerčnými behmi a ultra-podujatiami. Páči sa mi koncept dobrovoľníctva, ktorým idú, lebo keby mali zaplatiť všetkých ľudí spojených do takéhoto veľkého, dlhého a časovo náročného podujatia, tak suma za štartovné by zabila celú akciu a dostupnosť týchto podujatí by ostala len pár vyvoleným.
 
 ![](images/dobrovol-300x227.jpg)
 
