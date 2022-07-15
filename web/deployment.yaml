@@ -9,6 +9,10 @@ spec:
   selector:
     matchLabels:
       app: nginx
+  volumes:
+    - name: task-pv-storage
+      persistentVolumeClaim:
+        claimName: task-pv-claim
   template:
     metadata:
       labels:
@@ -19,3 +23,6 @@ spec:
         image: nginx:1.14.2
         ports:
         - containerPort: 80
+        volumeMounts:
+        - mountPath: "/usr/share/nginx/html"
+          name: task-pv-storage
