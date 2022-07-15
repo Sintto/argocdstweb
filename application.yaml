@@ -22,7 +22,3 @@ spec:
     
     syncOptions:     # Sync options which modifies sync behavior
     - CreateNamespace=true 
-
-    automated:
-      selfHeal: true
-      prune: true
