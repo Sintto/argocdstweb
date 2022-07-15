@@ -9,15 +9,15 @@ spec:
   selector:
     matchLabels:
       app: nginx
-  volumes:
-    - name: task-pv-storage
-      persistentVolumeClaim:
-        claimName: task-pv-claim
   template:
     metadata:
       labels:
         app: nginx
     spec:
+      volumes:
+        - name: task-pv-storage
+          persistentVolumeClaim:
+            claimName: task-pv-claim
       containers:
       - name: nginx
         image: nginx:1.14.2
